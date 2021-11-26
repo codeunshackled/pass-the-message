@@ -1,4 +1,4 @@
-# change-background-color
+# pass-the-message
 Input a message in an input field and show it in another box/element, then clean both the input field and the box, after a certain time - JavaScript beginner project
 
 ### Built With
